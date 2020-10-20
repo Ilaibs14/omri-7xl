@@ -146,11 +146,3 @@ header {
     color: #fff;
     background-color: #25d366;
 }
-
-/* Responsive */
-@media screen and (max-width: 800px) {
-    .parallax {
-        height: 200px;
-        width: 100%;
-    }
-}
