@@ -146,3 +146,10 @@ header {
     color: #fff;
     background-color: #25d366;
 }
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+	.parallax {
+		background-attachment: inherit;
+	}
+}
