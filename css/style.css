@@ -151,5 +151,6 @@ header {
 @media screen and (max-width: 768px) {
 	.parallax {
 		background-attachment: inherit;
+		width: 100%;
 	}
 }
